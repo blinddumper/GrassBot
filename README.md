@@ -13,7 +13,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/sataroscript/grassbot
+git clone https://github.com/blinddumper/grassbot
 cd grassbot
 run.bat
 ```
@@ -32,7 +32,8 @@ socks5://username:password:ip:port
 ```
 
 # Showcase
-![grasspreview](https://github.com/user-attachments/assets/db8d6340-659d-4e20-9c08-36dfeb2e1d28)
+![image](https://github.com/user-attachments/assets/5949773d-0353-4bff-90e1-615dde8a3d8e)
+
 
 
 
