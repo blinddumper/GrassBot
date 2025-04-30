@@ -1,0 +1,16 @@
+aiohttp
+websockets==12.0
+websockets_proxy==0.1.2
+annotated-types==0.7.0
+aiofiles==24.1.0
+web3
+psutil==6.1.0
+types-requests==2.32.0.20250301
+better-proxy==1.1.5
+aiohttp-socks
+loguru
+fake-useragent==1.5.1
+colorama
+pydantic_core==2.16.3
+PySocks==1.7.1
+requests
